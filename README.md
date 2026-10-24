@@ -22,7 +22,7 @@ Data Science & Data Analytics — SkillIT Academy (October 2026)
 
 ### Connect with Me
 
-- LinkedIn: [Add your LinkedIn profile URL](https://www.linkedin.com/)
-- Email: [Add your professional email]
+- LinkedIn: [Jahnavi Rekkala](https://www.linkedin.com/)
+- Email: [jahnavirekkala@gmail.com]
 
 *Always learning. Always building. Turning data into insights.*
