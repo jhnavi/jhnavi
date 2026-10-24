@@ -40,11 +40,6 @@ Developed an image-classification project to categorize waste into biodegradable
 
 **Tools:** Python, Deep Learning, Transfer Learning, Streamlit
 
-### 4. Personalized Healthcare Prediction
-Explored machine learning models to predict possible diseases from symptom inputs and provide AI-generated explanations.
-
-**Tools:** Python, Machine Learning, Django, Generative AI
-
 *This is an educational project, not a substitute for professional medical advice.*
 
 ## Certification
