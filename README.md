@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Jahnavi Rekkala 👋
 
-<!--
-**jhnavi/jhnavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Data Science Enthusiast
 
-Here are some ideas to get you started:
+I'm a recent graduate interested in Data Analytics, Machine Learning, and solving real-world problems using data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Completed the Data Science & Data Analytics professional course at SkillIT Academy
+- 📊 Interested in data cleaning, exploratory data analysis, visualization, and predictive modeling
+- 💻 Skills: Python, SQL, Excel, Pandas, NumPy, Power BI, Tableau, Scikit-learn, and Streamlit
+- 🌱 Continuously learning and building practical projects
+
+### Featured Projects
+
+- **Student Admission Prediction using XGBoost** — Predicting admission chances using academic features.
+- **Brain Tumor Detection using MobileNetV2** — MRI image classification using transfer learning.
+- **Smart Waste Classifier** — Image classification for waste categories.
+- **Personalized Healthcare Prediction** — Machine learning-based disease prediction and explanations.
+
+### Certification
+
+Data Science & Data Analytics — SkillIT Academy (October 2026)
+
+### Connect with Me
+
+- LinkedIn: [Add your LinkedIn profile URL](https://www.linkedin.com/)
+- Email: [Add your professional email]
+
+*Always learning. Always building. Turning data into insights.*
